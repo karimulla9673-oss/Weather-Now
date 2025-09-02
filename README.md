@@ -1,5 +1,22 @@
 Weather Now is a simple and modern weather application built with React.js that displays the current weather conditions of any city using the OpenWeatherMap API.
 
+
+project structure:
+
+Weather-Now/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   └── Weather.jsx
+	      Weather.css
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+└── package.json
+
+
 Features:
 
 1) Search by City – Enter any city name to fetch weather details.
